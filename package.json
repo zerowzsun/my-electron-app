@@ -1,0 +1,14 @@
+{
+  "name": "my-electron-app",
+  "version": "1.0.0",
+  "description": "我的第一个程序",
+  "main": "main.js",
+  "author": "Sun",
+  "license": "MIT",
+  "scripts": {
+    "start": "electron ."
+  },
+  "devDependencies": {
+    "electron": "^22.0.0"
+  }
+}
